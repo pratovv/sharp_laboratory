@@ -1,0 +1,11 @@
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\bin\Debug\Visual Sort.exe.config
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\bin\Debug\Visual Sort.exe
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\bin\Debug\Visual Sort.pdb
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual Sort.csproj.AssemblyReference.cache
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual_Sort.MainForm.resources
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual_Sort.Properties.Resources.resources
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual Sort.csproj.GenerateResource.cache
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual Sort.csproj.CoreCompileInputs.cache
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual Sort.exe
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual Sort.pdb
+C:\Users\chill\Desktop\labasharp\Visual-Sort\Visual Sort\obj\Debug\Visual_Sort.ComparativeAnalysis.resources
